@@ -1,4 +1,11 @@
 {
+  "name": "Projet",
+  "version": "0.1.0",
+  "description": "bot discord test",
+  "main": "main.js",
+  "repository": "https://github.com/fgosdrauka/crispy-winner.git",
+  "author": "Maxime <maximeproby17@outlook.fr>",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "discordjs/discord.js"
   }
